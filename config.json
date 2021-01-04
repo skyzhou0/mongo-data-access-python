@@ -1,0 +1,8 @@
+{
+    "MONGO_INITDB_ROOT_USERNAME": "",
+    "MONGO_INITDB_ROOT_PASSWORD": "",
+    "PORT": 27017,
+    "DBNAME": "",
+    "COLLECTION_NAME": "",
+    "MONGO_CONNECTION_URL": "mongodb+srv://{}:{}@shadow.xxxx.mongodb.net/ngdp_db?authSource=$external&authMechanism=PLAIN"
+}
